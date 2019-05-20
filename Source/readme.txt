@@ -1,0 +1,1 @@
+After building a solution, files from "external files" folder should be added to program folder.

@@ -1,0 +1,159 @@
+Some theory
+
+The Fatum Project was born as an attempt to research unknown spaces outside predetermined probability-tunnels of the holistic
+world and has become a fully functional reality-tunnel creating machine that digs rabbit holes to wonderland.
+
+It consists of technical, causal and memetic parts, that we'll describe in the article below.
+
+1. Probability Blind-Spots
+
+All things in the world are causally connected with each other and everything that happens, including our thoughts, is usually
+determined by the sum of all environmental factors. This makes the world close to deterministic. The patterns arising in the
+network of these relations, reduce even random actions to a limited set of possible outcomes. That’s how attractors appear, like
+this:
+https://en.wikipedia.org/wiki/Sierpinski_triangle#Chaos_game
+
+This means that no matter what choices you make, and no matter how many variations on how your day may pass, there are always
+some places where you simply cannot be, because none of the chains of your decisions leads there.
+
+Interesting that such places may be somewhere nearby. On your street there may be a lane in which you will never think to look
+and you do not even know about its existence. What could be hiding in such blind spots? And what could be hiding in places where
+no one looks at all? This is the first question of our experiment. There may be magical creatures or aliens or a pile of
+garbage, no one knows for sure.
+
+To find such places, it was decided to create points with random coordinates and go there, regardless of whether they look
+interesting or convenient to visit. So the chance to get to a blind spot increases markedly.
+Remarkable, that after several trips, researchers found dozens of new places near their house, they had never seen before. 
+It is possible to enhance the effect by building chains of random points, thereby creating entire unusual routes for yourself.
+
+2. Butterfly effect
+
+Next was the question of what were long-term consequences of a researcher staying in a place where he should never have been.
+How much can determinism be broken? Will the clockwork of the universe fail from changing its gear position? Will the objects
+found in these places or the images seen generate cascades of events drastically changing everything around?
+
+This is quite possible if we consider that all people exists within their own tunnel of reality, shaped by their qualities,
+habits and perceptions. Even just a very different person from us can live in a completely different world, because it goes on 
+completely different routes and receives other information. So, getting into random points, you can find yourself in someone
+else’s tunnel of reality and get new opportunities from there.
+
+Then new information and causality can pull you out of the filter-bubble and change your life.
+
+3. Quantum Randomness
+
+But we decided to set ourselves a more ambitious goal and break holistic determinism at its very core, going beyond even the
+most fundamental attractors.
+As it is known, determinism completely disappears only in the transition to quantum measurements, for which the uncertainty
+principle operates.
+
+If you tie such measurements to actions in the macro world, you can significantly break out of the holistic field of causality
+relationships. (We called it the Stasis Field) So you can even find yourself in places where the usual randomizer would never
+lead you because of its dependence on the launch time and mathematical operations.
+
+We managed to find two available sources of quantum randomness: One of them (QRNG) is an open server https://qrng.anu.edu.au/
+which receives random numbers by measuring the magnetic field fluctuations of virtual particles in a vacuum. The second (REG) is
+a REG-1 Psyleron hardware module purchased from the Internet using tunnel effects in a field-effect transistor. Fatum software
+supports both sources.
+
+4. Stasis Field
+
+Stasis field is the entire set of causal relationships that limits the variability of potential outcomes. At the application
+level, this is the power that holds us in our reality-tunnel, making your life predictable to a certain extent.
+
+When disturbed, the stasis field tends to converge. That is, it will prevent you from exiting the probability-tunnel. In
+addition to the obvious physical limitations, the memetic factors of the stasis field will create the greatest convergence.
+These may include any boundaries of consciousness that predetermine your behavior: Studied methodologies, prejudice attitudes,
+the habit of noticing things only on certain grounds, etc.
+
+The greatest memetic danger is the Despair-meme, which becomes one of the most powerful levers of pressure from the stasis
+field. During the first experiment, when 70,000 randomly selected people were sent to random points coordinates, almost all of
+them immediately decided that the points were sent with the aim of a scam and saw danger in them. As a result, a very few
+decided to go there. Such a reaction can be explained by the activation of the despair-meme, with which the holistic memeplex
+tries to keep you within the framework of the pattern.
+
+The principle of Despair-meme is simple, it is transmitted in the form of signals that simultaneously carry a danger and the 
+impossibility of resisting it. For example: an endless stream of bad and terrifying news in public media, aggression from people
+in a higher position in the social hierarchy, nagging people who cause discomfort at the level of empathy, but not taking advice
+to solve problems, etc.
+Since the resulting stress is unsolvable, a closed cycle of self-reflection is created, producing stress and a feeling of 
+helplessness, prompting a person to search for an accessible target for their sublimation and send the same signal to someone
+else. When the external signal ceases to function, the consciousness continues to paranoidly seek out any signs of a similar 
+danger and inventing threats where there are none. So the meme of helplessness auto-stimulates itself. Thus, any new and unusual
+information will be perceived with suspicion.
+
+Increased exposure to Despair-meme can also lead to apathy and paranoia. And this is just one of the well-known memetic hazards
+that the explorer of reality-tunnels should fear. Filter-bubbles and their habits to notice only useful things in your everyday
+life will also significantly reduce your chances of getting out of the pattern.
+
+5. Void-meme
+
+The main memetic component of the Fatum system is the void-meme. Void-memes are the open questions. In our case, this is the 
+great unknown laying outside the deterministic world. Being completely indefinite, it, like the Rorschach stains, draws the most
+daring assumptions from your imagination, trying to fill the void of uncertainty. This creates a release of dopamine and
+motivates you, and since energy is expended in the search for truth, the mind seeks confirmation of its expectations and pays
+attention to anything even slightly unusual.
+
+In this way, the ability to notice anomalies is greatly increased, and any anomalies that are noticed form new attention 
+filters, which, due to the Baader-meinhof effect, make it possible to notice new types of things. This changes your very vision
+of the surrounding world, thus completing the creation of a new reality-tunnel.
+
+You are involved in a new system of causal relations not only at the causal, but also at the memetic level, you begin not only
+to find yourself in new places, but also to act differently.
+
+It is necessary to take into account the effect of "talking walls", which has been repeatedly observed by participants in the
+experiment. It lies in the fact that, arriving at the point of Fatum, the researcher begins to notice that the writings on the
+walls have interconnected content, similar to an attempt to communicate with him.
+The effect can be associated with a void-meme, as a result of an attempt of mind to confirm it's expectations of the
+supernatural, but often the coincidence of the writings were so improbable that we cannot be sure of this.
+
+6. Genesis field
+
+The most interesting part of our experiment was the hypothesis about the possibility of the impact of the noosphere on the 
+quantum probability put forward by the PEAR laboratory in Princeton. (http://noosphere.princeton.edu/papers/pear/fieldreg2.pdf)
+
+It says that if a researcher thinks hard about a certain outcome, the probability of quantum measurements deviates slightly from
+the average expected one. Scientists have also shown that a general cognitive background, for example, during significant 
+historical events, has an impact on quantum RNGs around the world.
+
+To explore the possibilities of this theory, we have created an additional algorithm for calculating the "attractor-points". To
+do this, several thousand random points are generated on the map, and then the places are searched around which these points 
+gather in dense clusters, deviating from a uniform distribution.
+
+It is assumed that probability-anomalies can appear in these places, or being there can trigger a cascade of events leading to a
+significant consequence. Many researchers also noted that at such points they found images and objects that they thought about 
+before the start of the experiment.
+
+The effect of the interaction of thoughts with quantum fluctuations was called by us the Genesis Field. It has the same nature
+as the stasis field, but of a higher dimension. If such distortions can be similar to the Asher Peres paradox (the possibility
+of the future to influence the past through the quantum entanglement), then it is likely that any interaction with the
+attractor-points can lead the researcher to certain versions of the future that he is thinking about.
+
+In contrast to the attractor-points we developed void-attractor-points. They calculate in the same way, but instead of the densest clusters of points, an area is searched for where they avoid falling. Big places where there are no random points at all. Such places may be blind spots of the genesis field.
+
+7. Planeshifting
+
+Although the creation of new reality-tunnels is of a purely causal-perceptual nature (you do not literally enter another world,
+you just have the opportunity to see and interact with new parts of it), there is also a hypothesis that an experiment may cause
+cases of the so-called Dimension Jumping.
+
+Dimension Jumping is a quantum teleportation into a parallel reality, which differs from your own in some small way. Often
+associated with the phenomena such as the Mandela-effect. Since most Dimension Jumping methods on the Internet suggest an
+enhanced mental adjustment to the desired version of reality, it can be assumed that if this phenomenon is real, then it is
+associated with the Genesis Field.
+
+In that case, fluctuations in quantum probability will be caused precisely by moving to parallel reality along the probability
+axis. Then the use of attractor-points related to these fluctuations can be a real creation of a portal to a parallel world.
+Then the Fatum project is not just a way to create new probability-tunnels, but a way to travel through the multiverse.
+
+Many researchers have reported about changes in various details in their environment. In some cases, new buildings appeared,
+unusual types of merry-go-rounds on children's playgrounds, which the researcher had not seen before, but according to official
+data, they have existed there for several years.
+
+We called this method Planeshifting. It is recommended to avoid the effects of despair-memes during the Planeshifting, as they
+can cause negative expectations and move you to dangerous timelines.
+It was also observed that when trying to build chains of three or more successively visited points of an attractor, a lot of
+causal obstacles arise, such as vehicle breakdowns, loss of communication, the emergence of urgent matters distracting from the
+experiment.
+
+It is recommended to save all unusual items found at points of the attractor and entangle them to your everyday life. Their very
+existence in your reality-tunnel can help synchronize with the new timeline. Objects may have unusual causal properties btw.
